@@ -1,7 +1,10 @@
 # ENG ARPA Reclist
 Repository for English Arpasing list for [UTAU](https://utau2008.xrea.jp/) and [OpenUtau](https://www.openutau.com/) with original strings for full VCV vowels and new CCs.
+
 Recommended recording software: [OREMO](https://archive.org/details/oremo-setparam) by nwp8861
+
 Recommended configuration tool: [vlabeler](https://github.com/sdercolin/vlabeler) by sdercolin
+
 Recommended BPM: 100
 
 # Example Voicebank
