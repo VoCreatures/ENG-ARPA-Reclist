@@ -1,0 +1,48 @@
+✦ VOWELS ✦
+Far = aa
+Bat = ae
+Strut = ah
+Taught = ao
+Loud = aw
+Replica = ax
+Buy = ay
+Bed = eh
+Maker = er
+Day = ey
+Kit = ih
+Beef = iy
+Low = ow
+Boy = oy
+Put = uh
+Due = uw
+
+✦ CONSONANTS ✦
+Back = b
+Touch = ch
+Day = d
+Butter = dx
+Rhythm = dh
+Fear = f
+Bag = g
+Hay = hh
+Just = jh
+Rock = k
+Life = l
+Mind = m
+Night = n
+Singer = ng
+Dip = p
+Red = r
+Sea = s
+Share = sh
+Sit = t
+Think = th
+Value = v
+Way = w
+Yellow = y
+Resort = z
+Vision = zh
+
+✦ OTHER ✦
+vocal fry = ‘
+glottal stop = q
